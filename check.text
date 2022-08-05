@@ -1,0 +1,15 @@
+For Github :-
+1. All the projects which are added in portfolio must be pinned in github profile and the pointer's like description,deployed link,readme file should be there for these repo.
+2. For Github you can take the help of this tool created by souvik dutta(IA) link --> https://mac-github.netlify.app/
+
+
+For Portfolio :-
+1. Proper descriptive feedback should be given to the student so they can improve.
+2. Portfolio should be single page application.
+3. There should be a navbar with atleast 4 section (About,skill,project,contact).
+4. Design should be clean and simple.
+5. Hero image for each project should be there with small description,tech stack used,github repo link,deployed link.
+6. Portfolio should be made with the similar tech stack students have learned.
+7. All the functionality/feature added in the portfolio should be working like if someone created a form in contact me section it should be fully functional otherwise tell the students to remove it.
+8. Portfolio should be responsive(mandatory).
+9. Ideal Portfolio's w.r.t these pointers -> //TODO: find the ideal portfolio's
